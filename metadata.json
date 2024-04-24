@@ -25,6 +25,18 @@
       {
         "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image3.jpg",
         "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Diamond%20Pass.mp4",
+        "type": "video/mp4"
       }
     ],
     "category": "video",
