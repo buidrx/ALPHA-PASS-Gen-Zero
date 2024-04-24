@@ -15,31 +15,43 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Basic%20Pass.mp4",
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Basic%20Pass%201.mp4",
         "type": "video/mp4"
       },
       {
-        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Gold%20Pass.mp4",
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Basic%20Pass%202.mp4",
         "type": "video/mp4"
       },
       {
-        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Diamond%20Pass.mp4",
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Basic%20Pass%203.mp4",
         "type": "video/mp4"
       },
       {
-        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Basic%20Pass.mp4",
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Gold%20Pass%201.mp4",
         "type": "video/mp4"
       },
       {
-        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Gold%20Pass.mp4",
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Gold%20Pass%202.mp4",
         "type": "video/mp4"
       },
       {
-        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Diamond%20Pass.mp4",
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Gold%20Pass%203.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Diamond%20Pass%201.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Diamond%20Pass%202.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Diamond%20Pass%203.mp4",
         "type": "video/mp4"
       },
       ...
-      // Repeat the same URIs for a total of 200 entries
+      // Continue this pattern up to "Basic Pass 200.mp4", "Gold Pass 200.mp4", and "Diamond Pass 200.mp4"
     ],
     "category": "video",
     "creators": [
