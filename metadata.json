@@ -25,7 +25,21 @@
       {
         "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Diamond%20Pass.mp4",
         "type": "video/mp4"
-      }
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      ...
+      // Repeat the same URIs for a total of 200 entries
     ],
     "category": "video",
     "creators": [
