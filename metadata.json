@@ -1,0 +1,47 @@
+{
+  "name": "Alpha Pass: Gen Zero",
+  "symbol": "APGZ",
+  "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/metadata.json",
+  "seller_fee_basis_points": 1000,
+  "creators": [
+    {
+      "address": "t8kR1epsQxrrugthzXpU9g3FAVRTNcVm99XZ2QLcgrV",
+      "share": 100
+    }
+  ],
+  "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+  "image": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image1.jpg",
+  "animation_url": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/video.mp4",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image1.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image2.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image3.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/video.mp4",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "video",
+    "creators": [
+      {
+        "address": "t8kR1epsQxrrugthzXpU9g3FAVRTNcVm99XZ2QLcgrV",
+        "share": 100
+      }
+    ]
+  },
+  "supply": 200,
+  "social": {
+    "twitter": "https://twitter.com/Pantherbuildoor",
+    "discord": "https://discord.gg/J5P6qYU46H"
+  }
+}
