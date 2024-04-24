@@ -1,0 +1,49 @@
+{
+  "name": "Alpha Pass: Gen Zero",
+  "symbol": "APGZ",
+  "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/metadata.json",
+  "seller_fee_basis_points": 1000,
+  "creators": [
+    {
+      "address": "t8kR1epsQxrrugthzXpU9g3FAVRTNcVm99XZ2QLcgrV",
+      "share": 100
+    }
+  ],
+  "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+  "attributes": [
+    {
+      "trait_type": "Pass Type",
+      "value": "Basic",
+      "image": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image1.jpg"
+    },
+    {
+      "trait_type": "Pass Type",
+      "value": "Gold",
+      "image": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image2.jpg"
+    },
+    {
+      "trait_type": "Pass Type",
+      "value": "Diamond",
+      "image": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image3.jpg"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      ...
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/70Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      ...
+      {
+        "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/30Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  "animation_url": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/animation.mp4"
+}
