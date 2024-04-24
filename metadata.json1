@@ -8,17 +8,17 @@
     {
       "trait_type": "Pass Type",
       "value": "Basic",
-      "image": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image1.jpg"
+      "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4"
     },
     {
       "trait_type": "Pass Type",
       "value": "Gold",
-      "image": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image2.jpg"
+      "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Gold%20Pass.mp4"
     },
     {
       "trait_type": "Pass Type",
       "value": "Diamond",
-      "image": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image3.jpg"
+      "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Diamond%20Pass.mp4"
     }
   ],
   "properties": {
