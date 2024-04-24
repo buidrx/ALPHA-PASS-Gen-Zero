@@ -8,21 +8,21 @@
     {
       "trait_type": "Pass Type",
       "value": "Basic",
-      "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4"
+      "image": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image1.jpg"
     },
     {
       "trait_type": "Pass Type",
       "value": "Gold",
-      "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Gold%20Pass.mp4"
+      "image": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image2.jpg"
     },
     {
       "trait_type": "Pass Type",
       "value": "Diamond",
-      "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Diamond%20Pass.mp4"
+      "image": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/image3.jpg"
     }
   ],
   "properties": {
- "files": [
+    "files": [
       {
         "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/1Basic%20Pass.mp4",
         "type": "video/mp4"
@@ -703,11 +703,12 @@
         "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/170Gold%20Pass.mp4",
         "type": "video/mp4"
       },
-        {
+      ...
+      {
         "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/171Diamond%20Pass.mp4",
         "type": "video/mp4"
       },
-      {
+       {
         "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/172Diamond%20Pass.mp4",
         "type": "video/mp4"
       },
@@ -819,10 +820,10 @@
         "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/199Diamond%20Pass.mp4",
         "type": "video/mp4"
       },
-       {
+      {
         "uri": "https://raw.githubusercontent.com/buidrx/ALPHA-PASS-Gen-Zero/main/200Diamond%20Pass.mp4",
         "type": "video/mp4"
-      },
+      }
     ]
   },
   "seller_fee_basis_points": 1000,
