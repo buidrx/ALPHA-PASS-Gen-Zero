@@ -2,7 +2,7 @@
     "name": "ALPHA PASS",
     "description": "These passes are far more than mere tokens of appreciation; they symbolise the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
     "symbol": "APGZ",
-    "image": "/0.webp",
+    "image": "/0.mp4",
     "attributes": [
         {
             "trait_type": "Background",
@@ -11,7 +11,7 @@
     ],
     "seller_fee_basis_points": 1000,
     "properties": {
-        "category": "image",
+        "category": "video",
         "files": [
             {
                 "uri": "0.mp4",
